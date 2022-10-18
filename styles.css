@@ -3,23 +3,37 @@ body{
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    background-color: #1E9092;
+    color: white;
 }
 
-/*.results {*/
-/*    margin: 0 auto;*/
-/*    text-align: center*/
-/*}*/
 
+.forms {
+    margin: 0 auto;
+    text-align: center;
+}
+.container{
+    padding-top: 20px;
+    margin: 0 auto;
+    background-color: #3DD5D8;
+    width: 600px;
+    border-radius: 20px;
+}
+.image-t{
+    padding-left: 20px;
+}
 #dogResults{
     margin: 0 auto;
-    text-align: center
+    text-align: center;
 }
+
 
 .footer{
     margin-top: auto;
     text-align: center;
     padding: 3px;
-    /*background-color: white;*/
     border-radius: 20px;
-    background-color: lightblue;
+    background-color: #3DD5D8;
+    color: white;
+    font-weight: bold;
 }
