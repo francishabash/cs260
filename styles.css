@@ -1,0 +1,25 @@
+
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/*.results {*/
+/*    margin: 0 auto;*/
+/*    text-align: center*/
+/*}*/
+
+#dogResults{
+    margin: 0 auto;
+    text-align: center
+}
+
+.footer{
+    margin-top: auto;
+    text-align: center;
+    padding: 3px;
+    /*background-color: white;*/
+    border-radius: 20px;
+    background-color: lightblue;
+}
